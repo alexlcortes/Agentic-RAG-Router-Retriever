@@ -7,6 +7,7 @@ langchain-chroma
 chromadb
 pypdf
 tavily-python
+requests
 pydantic
 python-dotenv
 jupyter
