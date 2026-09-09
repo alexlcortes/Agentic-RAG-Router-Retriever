@@ -1,0 +1,12 @@
+crewai
+crewai_tools
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+chromadb
+pypdf
+tavily-python
+pydantic
+python-dotenv
+jupyter
